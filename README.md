@@ -31,9 +31,7 @@
 
 | Project Name | Tech Stack | Live Demo |
 |--------------|------------|-----------|
-| **Payroll Policy** | React, TypeScript, Tailwind | [View Project](https://main.d4u4ibrhgga2j.amplifyapp.com/signin) |
-| **Talkative Buddy** | React, TypeScript | [View Project](https://www.talktivebuddy.com/) |
-| **Entity System** | React, TailwindCSS | [View Project](https://my-app-six-ivory-40.vercel.app/) |
+| **Talkative Buddy** | React, TypeScript | [View Project](https://talkative-buddy-2-0.vercel.app/) |
 | **CRUD App** | React, Redux Toolkit | [View Project](https://crud-zeta-liard.vercel.app/) |
 | **Video App** | React, Chakra UI | [View Project](https://react-video-app-ten-theta.vercel.app/) |
 | **Coin Fetching** | React | [View Project](https://thr-tan.vercel.app/) |
